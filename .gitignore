@@ -1,0 +1,9 @@
+!dist*
+
+# build output
+/index.js
+
+node_modules
+
+# TypeScript cache
+*.tsbuildinfo
